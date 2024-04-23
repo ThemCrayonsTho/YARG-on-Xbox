@@ -148,7 +148,7 @@ Setup:
       tool = unityyamlmerge
   [mergetool "unityyamlmerge"]
       trustExitCode = false
-      cmd = 'C:\\Program Files\\Unity\\Hub\\Editor\\2021.3.21f1\\Editor\\Data\\Tools\\UnityYAMLMerge.exe' merge -p "$BASE" "$REMOTE" "$LOCAL" "$MERGED"
+      cmd = 'C:\\Program Files\\Unity\\Hub\\Editor\\2021.3.36f1\\Editor\\Data\\Tools\\UnityYAMLMerge.exe' merge -p "$BASE" "$REMOTE" "$LOCAL" "$MERGED"
   ```
   - You may need to change the file path depending on where you installed Unity to.
 4. Save and close the file.
