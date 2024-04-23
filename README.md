@@ -24,6 +24,8 @@
 
 YARG (a.k.a. Yet Another Rhythm Game) is a free, open-source, plastic guitar game that is still in development. It supports guitar (five fret), drums (plastic or e-kit), vocals, pro-guitar, and more! YARG is still in active development, so there may be bugs and missing features.
 
+This version is modified for XBOX and is based off of the orignal's [source](https://github.com/YARC-Official/YARG) 
+
 ## 👉 Disclaimer
 
 > [!IMPORTANT]
